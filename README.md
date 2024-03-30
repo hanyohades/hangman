@@ -10,6 +10,4 @@
 <br>
 
 <h3>Package used</h2>
-<li>
-  <ul>Chromaconsole</ul>
-</li>
+<li>Chromaconsole</li>
